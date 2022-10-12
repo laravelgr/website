@@ -89,7 +89,8 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Ενημερωθείτε για τα νέα της κοινότητας και τις δράσεις μας κάνοντας απλά εγγραφή στην mailing list μας!
+                                    Ενημερωθείτε για τα νέα της κοινότητας και τις δράσεις μας κάνοντας απλά <a
+                                        href="https://mailchi.mp/f98a09aa59f4/laravel-community-sync" class="underline">εγγραφή στην mailing list</a> μας!
                                 </div>
                             </div>
                         </div>
