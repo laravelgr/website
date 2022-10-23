@@ -38,13 +38,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-gray-500">
                                     <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 8.511c.884.284 1.5 1.128 1.5 2.097v4.286c0 1.136-.847 2.1-1.98 2.193-.34.027-.68.052-1.02.072v3.091l-3-3c-1.354 0-2.694-.055-4.02-.163a2.115 2.115 0 01-.825-.242m9.345-8.334a2.126 2.126 0 00-.476-.095 48.64 48.64 0 00-8.048 0c-1.131.094-1.976 1.057-1.976 2.192v4.286c0 .837.46 1.58 1.155 1.951m9.345-8.334V6.637c0-1.621-1.152-3.026-2.76-3.235A48.455 48.455 0 0011.25 3c-2.115 0-4.198.137-6.24.402-1.608.209-2.76 1.614-2.76 3.235v6.226c0 1.621 1.152 3.026 2.76 3.235.577.075 1.157.14 1.74.194V21l4.155-4.155" />
                                 </svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://join.slack.com/t/laravelgreece/shared_invite/zt-1hr7depv6-iexqPts7C3GQbcgpk2wfzQ" class="underline text-gray-900 dark:text-white">Slack</a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://join.slack.com/t/laravelgreece/shared_invite/zt-1hr7depv6-iexqPts7C3GQbcgpk2wfzQ" class="underline text-gray-900 dark:text-white" target="_blank">Slack</a></div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     To slack είναι το μέσο που μπορούμε να επικοινωνούμε ακόμα και καθημερινά. <a
-                                        href="https://join.slack.com/t/laravelgreece/shared_invite/zt-1hr7depv6-iexqPts7C3GQbcgpk2wfzQ" class="underline">Γραφτείτε δωρεάν</a> και γνωρίστε άμεσα την κοινότητα μας.
+                                        href="https://join.slack.com/t/laravelgreece/shared_invite/zt-1hr7depv6-iexqPts7C3GQbcgpk2wfzQ" class="underline" target="_blank">Γραφτείτε δωρεάν</a> και γνωρίστε άμεσα την κοινότητα μας.
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-gray-500">
                                     <path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418" />
                                 </svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://www.meetup.com/athens-laravel-meetup" class="underline text-gray-900 dark:text-white">Meetups/Hangouts</a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://www.meetup.com/athens-laravel-meetup" class="underline text-gray-900 dark:text-white" target="_blank">Meetups/Hangouts</a></div>
                             </div>
 
                             <div class="ml-12">
@@ -69,12 +69,12 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-gray-500">
                                     <path stroke-linecap="round" d="M15.75 10.5l4.72-4.72a.75.75 0 011.28.53v11.38a.75.75 0 01-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 002.25-2.25v-9a2.25 2.25 0 00-2.25-2.25h-9A2.25 2.25 0 002.25 7.5v9a2.25 2.25 0 002.25 2.25z" />
                                 </svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://www.youtube.com/channel/UCXgd0om3ZNufW8GocLUH23Q/videos" class="underline text-gray-900 dark:text-white">Passed Events</a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://www.youtube.com/channel/UCXgd0om3ZNufW8GocLUH23Q/videos" class="underline text-gray-900 dark:text-white" target="_blank">Passed Events</a></div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Διατηρούμε λογαριασμό στο <a href="https://www.youtube.com/channel/UCXgd0om3ZNufW8GocLUH23Q/videos" class="underline">Youtube</a> όπου και αναρτούμε όποτε είναι αυτό δυνατό υλικό απο τις προηγούμενες συναντήσεις μας.
+                                    Διατηρούμε λογαριασμό στο <a href="https://www.youtube.com/channel/UCXgd0om3ZNufW8GocLUH23Q/videos" class="underline" target="_blank">Youtube</a> όπου και αναρτούμε όποτε είναι αυτό δυνατό υλικό απο τις προηγούμενες συναντήσεις μας.
                                 </div>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     Ενημερωθείτε για τα νέα της κοινότητας και τις δράσεις μας κάνοντας απλά <a
-                                        href="https://mailchi.mp/f98a09aa59f4/laravel-community-sync" class="underline">εγγραφή στην mailing list</a> μας!
+                                        href="https://mailchi.mp/f98a09aa59f4/laravel-community-sync" class="underline" target="_blank">εγγραφή στην mailing list</a> μας!
                                 </div>
                             </div>
                         </div>
@@ -101,11 +101,11 @@
                     <div class="text-center text-sm text-gray-500 sm:text-left">
                         <div class="flex items-center">
 
-                            <a href="https://twitter.com/laravelgr" class="ml-1 underline" style="margin-right:4px">
+                            <a href="https://twitter.com/laravelgr" class="ml-1 underline" style="margin-right:4px" target="_blank">
                                 Twitter
                             </a>
 
-                            <a href="https://www.facebook.com/laravelgr" class="ml-1 underline">
+                            <a href="https://www.facebook.com/laravelgr" class="ml-1 underline" target="_blank">
                                 Facebook
                             </a>
                         </div>
