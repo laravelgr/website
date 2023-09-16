@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Storage;
 
     /**
-     * pick a random winner out of meetup.com - without an api call.
+     * pick a random winner out of meetup.com - without an api call/paid account.
      * Needs manually work, to save in participants.html the file from meetup.com so it can be parsed.
      */
 Artisan::command('picker', function () {
