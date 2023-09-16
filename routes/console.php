@@ -1,19 +1,21 @@
 <?php
 
-use Illuminate\Foundation\Inspiring;
 use Illuminate\Support\Facades\Artisan;
+use Illuminate\Support\Facades\Storage;
 
-/*
-|--------------------------------------------------------------------------
-| Console Routes
-|--------------------------------------------------------------------------
-|
-| This file is where you may define all of your Closure based console
-| commands. Each Closure is bound to a command instance allowing a
-| simple approach to interacting with each command's IO methods.
-|
-*/
+    /**
+     * pick a random winner out of meetup.com - without an api call.
+     * Needs manually work, to save in participants.html the file from meetup.com so it can be parsed.
+     */
+Artisan::command('picker', function () {
 
-Artisan::command('inspire', function () {
-    $this->comment(Inspiring::quote());
-})->purpose('Display an inspiring quote');
+    $html = Storage::get('participants.html');
+
+    $participants = [];
+    (new PHPHtmlParser\Dom())->loadStr($html)->find('h4.text--ellipsisOneLine')->each(function($item) use (&$participants){
+        $participants[] = $item->innerHtml();
+    });
+
+    $this->info("The winner is... ".collect($participants)->random().' ! ');
+
+})->purpose('pick a winner randomly from meetup.com');
