@@ -5,6 +5,7 @@
  */
  return [
    'urls' => [
-       'subscribe' => 'https://mailchi.mp/f98a09aa59f4/laravel-community-sync'
+       'subscribe' => 'https://mailchi.mp/f98a09aa59f4/laravel-community-sync',
+       'thess' => 'https://lu.ma/qrdc9ibi',
    ]
  ];
