@@ -43,8 +43,8 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    To slack είναι το μέσο που μπορούμε να επικοινωνούμε ακόμα και καθημερινά. <a
-                                        href="https://join.slack.com/t/laravelgreece/shared_invite/zt-1hr7depv6-iexqPts7C3GQbcgpk2wfzQ" class="underline" target="_blank">Γραφτείτε δωρεάν</a> και γνωρίστε άμεσα την κοινότητα μας.
+                                    Slack is the platform where we can communicate even on a daily basis. <a
+                                        href="https://join.slack.com/t/laravelgreece/shared_invite/zt-1hr7depv6-iexqPts7C3GQbcgpk2wfzQ" class="underline" target="_blank">Sign up for free</a> and instantly connect with our community.
                                 </div>
                             </div>
                         </div>
@@ -54,12 +54,12 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-gray-500">
                                     <path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418" />
                                 </svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://www.meetup.com/athens-laravel-meetup" class="underline text-gray-900 dark:text-white" target="_blank">Meetups/Hangouts</a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold">>Meetups/Hangouts</div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Συναντιόμαστε από κοντά αλλά φροντίζουμε και να κάνουμε και Zoom συναντήσεις ώστε να συμμετέχουν και όσοι βρίσκονται εκτός Αθηνών!
+                                    For the past ten years, we have been meeting in person and broadcasting our talks live so that remote members of the community can also participate! We are one of the most active communities worldwide and now have the official support of Laravel Inc.
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Διατηρούμε λογαριασμό στο <a href="https://www.youtube.com/channel/UCXgd0om3ZNufW8GocLUH23Q/videos" class="underline" target="_blank">Youtube</a> όπου και αναρτούμε όποτε είναι αυτό δυνατό υλικό απο τις προηγούμενες συναντήσεις μας.
+                                    We maintain a <a href="https://www.youtube.com/channel/UCXgd0om3ZNufW8GocLUH23Q/videos" class="underline" target="_blank">Youtube</a> account where we upload material from our previous meetings whenever possible.
                                 </div>
                             </div>
                         </div>
@@ -89,8 +89,8 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Ενημερωθείτε για τα νέα της κοινότητας και τις δράσεις μας κάνοντας απλά <a
-                                        href="https://mailchi.mp/f98a09aa59f4/laravel-community-sync" class="underline" target="_blank">εγγραφή στην mailing list</a> μας!
+                                    Stay updated on community news and activities by simply <a
+                                        href="https://mailchi.mp/f98a09aa59f4/laravel-community-sync" class="underline" target="_blank">subscribing to our mailing list!</a> This is the only sure way to never miss out on our events and initiatives!
                                 </div>
                             </div>
                         </div>
