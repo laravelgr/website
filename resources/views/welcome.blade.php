@@ -54,12 +54,18 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-gray-500">
                                     <path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418" />
                                 </svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold">Meetups/Hangouts</div>
+                                <div class="ml-4 text-gray-200 text-lg leading-7 font-semibold">Meetups/Hangouts</div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     For the past ten years, we have been meeting in person and broadcasting our talks live so that remote members of the community can also participate! We are one of the most active communities worldwide and now have the official support of Laravel Inc.
+                                </div>
+
+                                <div class="mt-2 text-bold text-gray-200 underline">
+                                    <a target="_blank" href="https://lu.ma/qrdc9ibi">
+                                        Upcoming meetup: 15/05/2025 18:30 - Thessaloniki    
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -84,13 +90,14 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-gray-500">
                                     <path stroke-linecap="round" d="M16.5 12a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 10-2.636 6.364M16.5 12V8.25" />
                                 </svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">Subscribe to our newsletter</div>
+                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white"><a
+                                        href="https://laravel.gr/s/subscribe" class="underline">Subscribe to our newsletter</a></div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     Stay updated on community news and activities by simply <a
-                                        href="https://mailchi.mp/f98a09aa59f4/laravel-community-sync" class="underline" target="_blank">subscribing to our mailing list!</a> This is the only sure way to never miss out on our events and initiatives!
+                                        href="https://laravel.gr/s/subscribe" class="underline" target="_blank">subscribing to our mailing list!</a> This is the only sure way to never miss out on our events and initiatives!
                                 </div>
                             </div>
                         </div>
